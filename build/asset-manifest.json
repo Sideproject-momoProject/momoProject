@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.75197c0d.css",
+    "main.js": "/static/js/main.35561744.js",
+    "static/media/img_paper1.jpg": "/static/media/img_paper1.1a8748a9387269f234f3.jpg",
+    "static/media/AppleSDGothicNeoM.ttf": "/static/media/AppleSDGothicNeoM.88c00162a2084f97069c.ttf",
+    "static/media/img_back.jpg": "/static/media/img_back.5e926bd8aceaacf71b42.jpg",
+    "static/media/authselection.jpeg": "/static/media/authselection.f3ec6306c67104bdb8b9.jpeg",
+    "index.html": "/index.html",
+    "main.75197c0d.css.map": "/static/css/main.75197c0d.css.map",
+    "main.35561744.js.map": "/static/js/main.35561744.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75197c0d.css",
+    "static/js/main.35561744.js"
+  ]
+}
